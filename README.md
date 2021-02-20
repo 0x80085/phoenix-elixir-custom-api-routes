@@ -3,7 +3,7 @@
 
 ## Example Elixir project w custom routes
 
-A open source demo peoject to demonstrate how to achieve web API custom routes in Phoenix 
+A open source demo project to demonstrate how to achieve web API custom routes in Phoenix 
 
 Do what you want with this code
 
