@@ -7,6 +7,17 @@ A open source demo project to demonstrate how to achieve web API custom routes i
 
 Do what you want with this code
 
+available routes: 
+ 
+http://localhost:4000/tz/asia
+
+http://localhost:4000/
+
+http://localhost:4000/tz/asia
+
+http://localhost:4000/xss?code=
+
+404 in case nothing matched
 
 ---
 
